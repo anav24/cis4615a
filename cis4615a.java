@@ -3,7 +3,7 @@
  *  Execution:    java Cis4615a
  *
  *  Prints 
- *    "Hello, World - from Aaron Navarro".
+ *    "Hello, World - from the class of CIS4615 - Fall 2022 -UCF _YoUR NAME HERE_".
  *  By tradition, this is everyone's first program.
  *
  * Revision History:
